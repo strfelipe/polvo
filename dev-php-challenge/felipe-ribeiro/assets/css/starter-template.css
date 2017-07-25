@@ -1,0 +1,15 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.m-b-none {
+    margin-bottom:0px!important;
+}
+
+.m-t-none {
+    margin-top:0px!important;
+}
